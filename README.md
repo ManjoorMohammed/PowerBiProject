@@ -20,4 +20,3 @@ To maintain an interactive experience, I've included a 'Clear All' button, enabl
 
 In conclusion, this Power BI project is not just about data visualization; it's a powerful tool for data-driven decision-making. The clean data and thoughtful relationships between tables ensure the accuracy of our analysis, while the detailed breakdown of sales empowers us to make informed decisions that drive business growth.
 
-Thank you for joining me on this journey through our Power BI dashboard. If you have any questions or need further information, please feel free to reach out. Now, let's dive into the exciting world of data analytics and uncover the hidden treasures within our data.
