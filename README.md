@@ -2,7 +2,7 @@
 ---
 
 
-Hello, everyone! I'm delighted to present an exciting journey through a Power BI project that I've created. My name is Manjoor Mohammed, and this project is part of my Elevated Course experience.
+Hello, everyone! I'm delighted to present an exciting journey through a Power BI project that I've created.
 
 In this exploration, we'll dive into the world of data analytics using Power BI, a powerful business intelligence tool that enables us to transform raw data into actionable insights. Our dataset for this project hails from a company known as Global Super Store, containing three essential Excel sheets: Orders, People, and Returns. The Orders table, in particular, serves as our fact table, holding valuable sales information.
 
